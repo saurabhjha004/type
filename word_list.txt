@@ -1,0 +1,105 @@
+apple
+banana
+orange
+grape
+strawberry
+pineapple
+watermelon
+kiwi
+blueberry
+peach
+mango
+pear
+cherry
+lemon
+lime
+coconut
+fig
+plum
+apricot
+pomegranate
+raspberry
+blackberry
+cranberry
+melon
+nectarine
+papaya
+dragonfruit
+guava
+passionfruit
+lychee
+avocado
+starfruit
+persimmon
+tangerine
+grapefruit
+kumquat
+cantaloupe
+date
+boysenberry
+kiwifruit
+mulberry
+mandarin
+elderberry
+quince
+soursop
+breadfruit
+ackee
+plantain
+durian
+pawpaw
+loganberry
+marionberry
+breadnut
+sapote
+cherimoya
+ugli fruit
+carambola
+sapodilla
+mangosteen
+rambutan
+horned melon
+sugar apple
+cactus fruit
+cupuacu
+feijoa
+jambul
+langsat
+longan
+mamey sapote
+santol
+sapote
+sweetsop
+tamarillo
+yuzu
+ackee
+cranberry
+kumquat
+lychee
+quince
+carambola
+feijoa
+persimmon
+rambutan
+soursop
+yuzu
+loganberry
+ugli fruit
+jambul
+langsat
+marionberry
+sapodilla
+boysenberry
+durian
+horned melon
+santol
+cherimoya
+breadfruit
+cupuacu
+plantain
+breadnut
+tamarillo
+sugar apple
+mangosteen
+mamey sapote
+sweetsop
